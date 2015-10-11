@@ -7,10 +7,9 @@
 - 性别：男
 - 户籍：上海
 - 政治面貌：中共党员
-- 手机：18821153530(上海)，18258240896（杭州）
+- 手机：18821153530(上海)
 - 邮箱：404762352@qq.com
 - Github主页：https://github.com/yqfang
-- 简历线上地址：https://github.com/yqfang/cv/blob/master/cvc.md
  
 ## 教育背景
 
@@ -36,17 +35,17 @@
 
 - 英语水平：六级通过，托福75，口语流利
 
-- 前端：熟练掌握javascript, jquery, css, sass, less, nodejs，掌握angularjs, jqueyUI, bootstrap 等前端框架，理解前端模块化思想，用sass开发过自己的样式库
+- 前端：熟练掌握javascript, jquery, css, sass, less，掌握angularjs, jqueyUI, bootstrap 等前端框架，理解前端模块化思想，用sass开发过自己的样式库
 
 - Java：熟练使用 Java API，有 java swing 和 java web 开发经验，有应用 Spring Struts Hibernate 框架开发经验
 
 - linux：熟练 linux/mac 下开发，熟悉 shell 编程，熟悉 vim, tmux等 CLI 工具
 
-- 数据库：熟悉 DB2，SQL，了解 Hive，HBase，熟练使用 JDBC 编写 DAO
+- 数据库：熟悉 DB2，了解 Hive，HBase，熟练使用 JDBC 编写 DAO
 
 - 大数据：了解hadoop, hbase, hive 基本原理，搭过集群，熟练编写 sqoop 数据抽取过程脚本
 
-- 编译工程：理解编译过程，实现过简单sql语言的编译器，使用过 Antlr 实现特定领域语言
+- 编译工程：理解编译过程，实现过简单sql语言的编译器，了解 Antlr 
 
 - 工程化：熟练使用markdown 编写技术文档，熟练使用cvs/svn/git 各类版本控制工具，熟练使用maven, ant, grunt, gulp, fis 等构建发布工具，理解软件工程原理
 
@@ -85,16 +84,11 @@
 
     项目github主页 https://github.com/yqfang/tiger/
 
-- 2013年5月 - 6月：西安电子科技大学：人事管理系统（优秀毕业设计） 
-
-    - 作为 项目组组长，主要设计并且实现了核心模块：人事管理子模块
-    - 使用 struts,hibernate,spring 建立网站后台框架
-
 ## 兴趣及自我评价
 
 - 喜欢动漫，美剧，喜欢健身，长跑（跑过半程马拉松）
-- 喜欢钻研各种黑科技，常混迹于github,stackoverflow,infoQ 各种技术社区
-- 立志为一名全栈工程师，学历能力强，对大数据非常感兴趣
+- 喜欢钻研技术，喜欢上github,stackoverflow,infoQ,知乎 各种技术社区
+- 立志为一名全栈工程师，学习能力强，对大数据非常感兴趣
 - 为人憨厚友善，敢于面对一切挑战，拥抱变化
 
 ## 获得荣誉
